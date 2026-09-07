@@ -12,9 +12,9 @@
   About me
 </h2>
 <p>
-  Recently graduated in Multiplatform Application Development (DAMD). I come from the VFX world, where I spent several years building FX tools with Houdini. Currently I'm looking to join a dev team where I can keep improving as a programmer.
-
-  That background gives me a mix of technical problem-solving and visual thinking that I bring to every project.
+  Recently graduated in Multiplatform Application Development (DAMD). I come from the VFX world, where I spent several years building FX tools with Houdini. That background gives me a mix of technical problem-solving and visual thinking that I bring to every project.
+  
+  Currently I'm looking to join a dev team where I can keep improving as a programmer.
 </p>
 
 <h2 style="color:#FFBF00;">
