@@ -58,6 +58,4 @@
   </tr>
 </table>
 
----
-
 <img src="images/footer_wave.svg" alt="footer" width="100%"/>
